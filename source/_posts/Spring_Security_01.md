@@ -36,7 +36,7 @@ Username으로 `user`와 Password로 위에 로그에 찍힌 생성된 비밀번
 - username으로 `user`와 password로 랜덤하게 생성되는 비밀번호 값을 가지는 UserDetailsService라는 빈을 생성합니다.
 - 각 요청마다 springSecurityFilterChain이라는 이름의 빈을 생성합니다.
 
-기본 실행은 여기까지입니다. 이제 자신의 웹 사이트에 맞는 
+기본 실행은 여기까지입니다.
 
 
 <br>
