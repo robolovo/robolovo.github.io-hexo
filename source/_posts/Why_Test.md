@@ -122,9 +122,11 @@ categories: Develop
 <br>
 <br>
 
-### 참조 문헌
+### 참조 사이트
 [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 [What's the difference between unit, functional, acceptance and integration test?](https://stackoverflow.com/questions/4904096/whats-the-difference-between-unit-functional-acceptance-and-integration-test)
+<br>
+### 참조 문헌
 [Unit Testing Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing)
 [마이크로서비스 패턴, Microservices Patterns](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165210441)
 <br>
