@@ -1,5 +1,5 @@
 ---
-title: TCP/IP 4계층 모델의 네트워크 통신
+title: TCP/IP 4계층 모델 네트워크 통신
 date: 2022-01-27 12:39:37
 categories: Develop
 ---
